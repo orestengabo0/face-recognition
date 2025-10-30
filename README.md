@@ -9,7 +9,7 @@
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/face-recognition.git
+git clone https://github.com/orestengabo0/face-recognition.git
 cd face-recognition
 ```
 
